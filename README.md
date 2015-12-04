@@ -12,14 +12,13 @@ We expect your code to break the samples into training and testing and then outp
 
 Please submit your solution via a Github repo. If that's not possible - a zip file. Send the link to nlp@chattermill.io
 
-Please focus on making the code clear and modular, rather than on the complexity of the solution. Accuracy level itself will not be a success factor as much as our understanding of what you are doing and why. Treat your code as if it will be deployed to production.
-
-Add a README.md file explaining your process. It can be in a format of a short blog post, report or a tutorial. Any cool insight you find along the way, or cool tool you use will be a bonus.
+Add a README.md file explaining your process. It can be in a format of a short blog post, report or a tutorial. Any cool insight you find along the way, or cool tool you use will be a bonus. The file should contain full instructions on what we need to do to get to the output.
 
 ### Notes
 * You should be able to complete the project within a few hours, not days.
 * Feel free to work in whatever language / framework you are most comfortable in but we prefer Python for ML tasks.
 * If you are working in Python, we recommend taking a look at the *gensim* implementation of [doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html) for this problem. Feel free to use Scikit-Learn or whatever is your favourite library for classification.
+* Please focus on making the code clear and modular, rather than on the complexity of the solution. Accuracy level itself will not be a success factor as much as our understanding of what you are doing and why. Treat your code as if it will be deployed to production.
 
 ### Bonus Points
 * Clear, readable code
