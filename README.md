@@ -2,13 +2,13 @@
 At Chattermill we do a lot of cool things with text. One of them is identifying the sentiment. This is typically, a hard problem to solve. That's where you come in.
 
 ### The goal
-We would like you to use the word2vec model in combination with your favourite classification algorithm to predict sentiment of movie reviews. The emphasis is on combining the two and overall code quality rather than fine tuning of the algorithm for superior accuracy.
+We would like you to use word embeddings in combination with your favourite classification algorithm to predict sentiment of movie reviews. The emphasis is on combining the two and overall code quality rather than fine tuning of the algorithm for superior accuracy.
 
 ### Data
 There are 3 txt files with IMDb movie reviews: postive, negative and unsupervised. Feel free to use (or not use) these any way you see fit to test your code. We leave splitting into training and testing sets to you.
 
 ### Expected Output
-We expect your code to break the samples into training and testing and then output a classification accuracy level to the console, however, everything else is for you to decide. You might want to add some visualisation or sensitivity analysis.
+We expect your code to break the samples into training and testing and then output the performance of the classification to the console, however, everything else is for you to decide. You might want to add some visualisation or sensitivity analysis.
 
 Please submit your solution via a Github repo. If that's not possible - a zip file. Send the link to nlp@chattermill.io
 
