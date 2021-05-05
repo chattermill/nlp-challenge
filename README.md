@@ -31,7 +31,8 @@ instructions on what we need to do to rerun your code.**
   your memory consumption and training times (anything that takes over an hour to train on a GPU is going to be too 
   long)
 * Please focus on making the code clear and modular, rather than on the complexity of the solution. **Accuracy 
-  level itself will not be a success factor as much as our understanding of what you are doing and why.**
+  level itself will not be a success factor as much as our understanding of what you are doing and why.**  Provide your 
+  solution as if it were a research task. 
 * You may use Jupyter notebooks to code and present your solution if you prefer
 
 ### Bonus Points
