@@ -16,8 +16,8 @@ We expect your code to train a classification algorithm on `train.csv` that infe
 aspect predictions to a file called `test_answers.csv`.  Everything else is for you to decide. You might want to add 
 some exploratory data analysis or visualisations.
 
-Please submit your solution (including the completed `test_answers.csv` file) via a Github repo. If that's not 
-possible, a zip file.  Send the link to nlp@chattermill.io
+Please submit your solution (including the completed `test_answers.csv` file) as a zip file using the Greenhouse link 
+provided by our talent team.
 
 Add a README.md file explaining your process. It can be in a format of a short blog post, report or a tutorial. 
 Any cool insight you find along the way, or cool tool you use will be a bonus. **The file should contain full 
