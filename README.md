@@ -4,12 +4,19 @@ mentioned attributes of a product from customer comments (for example **speed of
 This is typically a hard problem to solve. That's where you come in.
 
 ### The goal
-We would like you to use your favourite classification algorithm to predict the aspects from the given feedback data. 
+1. We would like you to use your favourite classification algorithm to predict the aspects from the given feedback data.
+2. We then also would like to see this model served in a local inference server.
+
 **The emphasis is on overall code quality** rather than fine-tuning of the algorithm for superior accuracy.
 
 ### Data
 There are 2 comma-separated datasets of customer reviews, `train.csv` and `test.csv`.  Each comment in 
 `train.csv` has some multilabel ground-truth combination of aspects, while `test.csv` provides no ground-truth labels.
+
+### Inference Server
+* Create an inference server with an endpoint to serve inference requests to the model. 
+* You may use a framework of your choice such as FastAPI or Flask.
+* You may provide a docker file to run the inference server, or otherwise provide clear instructions for running it.
 
 ### Expected Output
 We expect your code to train a classification algorithm on `train.csv` that infers on `test.csv` and exports its 
